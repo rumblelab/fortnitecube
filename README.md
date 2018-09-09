@@ -3,7 +3,7 @@
 In this repo you will find: 
 1. [Ardunio code](https://github.com/rumblelab/fortnitecube/tree/master/FortnitePurpleCube)
 2. [.STL files for 3D printing the cube](https://github.com/rumblelab/fortnitecube/tree/master/3dKevin)
-3. [BOM - Bill of Materials and links to each item](https://github.com/rumblelab/fortnitecube/blob/master/ForniteCube_BOM.pdf)
+3. [BOM - Bill of Materials and links to each item](https://github.com/rumblelab/fortnitecube/blob/master/FortniteCube_BOM.pdf)
 4. Wiring diagram 
 5. .OGG sound file 
 
